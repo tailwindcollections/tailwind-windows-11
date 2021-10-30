@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Segoe UI";
+    src: url("./fonts/SegoeUI.ttf") format("trueType");
+  }
+  
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
